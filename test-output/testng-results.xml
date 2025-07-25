@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-21T12:14:08 IST" name="Default suite" finished-at="2025-07-21T12:14:08 IST" duration-ms="110">
+    <groups>
+    </groups>
+    <test started-at="2025-07-21T12:14:08 IST" name="Default test" finished-at="2025-07-21T12:14:08 IST" duration-ms="110">
+      <class name="helperAttributes.DataProviderdemo">
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:helperAttributes.DataProviderdemo@3eb25e1a]" started-at="2025-07-21T12:14:08 IST" name="login" data-provider="loginDetails" finished-at="2025-07-21T12:14:08 IST" duration-ms="16" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[virat]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[v123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:helperAttributes.DataProviderdemo@3eb25e1a]" started-at="2025-07-21T12:14:08 IST" name="login" data-provider="loginDetails" finished-at="2025-07-21T12:14:08 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sachin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[v456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:helperAttributes.DataProviderdemo@3eb25e1a]" started-at="2025-07-21T12:14:08 IST" name="login" data-provider="loginDetails" finished-at="2025-07-21T12:14:08 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rohi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[v789]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- helperAttributes.DataProviderdemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
