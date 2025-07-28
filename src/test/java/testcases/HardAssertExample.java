@@ -18,8 +18,11 @@ public class HardAssertExample {
 		Assert.assertEquals(actualtitle, expectedTitle);
 		System.out.println("step1");
 		System.out.println("step2");
-		System.out.println("step 3");
+
+		System.out.println("step 32");
 		System.out.println();
+
+	
 		
 	}
 
