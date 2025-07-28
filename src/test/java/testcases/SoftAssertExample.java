@@ -21,6 +21,7 @@ public class SoftAssertExample {
 		soft.assertEquals(actualTitle, expectedTitle);
 		System.out.println("Step 1");
 		System.out.println("Step 2");
+		System.out.println("step 3");
 		soft.assertAll();
 	}
 
